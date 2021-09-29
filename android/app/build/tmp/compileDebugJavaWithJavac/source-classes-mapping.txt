@@ -1,0 +1,14 @@
+com/scorecard/BuildConfig.java
+ com.scorecard.BuildConfig
+com/scorecard/MainApplication.java
+ com.scorecard.MainApplication
+ com.scorecard.MainApplication$1
+com/scorecard/MainActivity.java
+ com.scorecard.MainActivity
+com/scorecard/ReactNativeFlipper.java
+ com.scorecard.ReactNativeFlipper
+ com.scorecard.ReactNativeFlipper$1
+ com.scorecard.ReactNativeFlipper$2
+ com.scorecard.ReactNativeFlipper$2$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
